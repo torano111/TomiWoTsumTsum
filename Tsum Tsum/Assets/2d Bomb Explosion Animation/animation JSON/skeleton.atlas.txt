@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bomb
+  rotate: false
+  xy: 473, 168
+  size: 212, 320
+  orig: 212, 320
+  offset: 0, 0
+  index: -1
+Bomb2
+  rotate: false
+  xy: 687, 168
+  size: 212, 320
+  orig: 212, 320
+  offset: 0, 0
+  index: -1
+Bomb3
+  rotate: false
+  xy: 2185, 226
+  size: 212, 262
+  orig: 212, 262
+  offset: 0, 0
+  index: -1
+blackbomb
+  rotate: false
+  xy: 901, 168
+  size: 212, 320
+  orig: 212, 320
+  offset: 0, 0
+  index: -1
+blackbomb2
+  rotate: false
+  xy: 1115, 168
+  size: 212, 320
+  orig: 212, 320
+  offset: 0, 0
+  index: -1
+blackbomb3
+  rotate: false
+  xy: 2399, 226
+  size: 212, 262
+  orig: 212, 262
+  offset: 0, 0
+  index: -1
+bluebomb
+  rotate: false
+  xy: 1329, 168
+  size: 212, 320
+  orig: 212, 320
+  offset: 0, 0
+  index: -1
+bluebomb2
+  rotate: false
+  xy: 1543, 168
+  size: 212, 320
+  orig: 212, 320
+  offset: 0, 0
+  index: -1
+bluebomb3
+  rotate: false
+  xy: 2613, 226
+  size: 212, 262
+  orig: 212, 262
+  offset: 0, 0
+  index: -1
+explosion (4)
+  rotate: false
+  xy: 2, 162
+  size: 469, 326
+  orig: 469, 326
+  offset: 0, 0
+  index: -1
+eyesclose
+  rotate: false
+  xy: 2, 92
+  size: 176, 68
+  orig: 176, 68
+  offset: 0, 0
+  index: -1
+eyesopen
+  rotate: false
+  xy: 3041, 420
+  size: 176, 68
+  orig: 176, 68
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 2, 2
+  size: 108, 88
+  orig: 108, 88
+  offset: 0, 0
+  index: -1
+pinkbomb
+  rotate: false
+  xy: 1757, 168
+  size: 212, 320
+  orig: 212, 320
+  offset: 0, 0
+  index: -1
+pinkbomb2
+  rotate: false
+  xy: 1971, 168
+  size: 212, 320
+  orig: 212, 320
+  offset: 0, 0
+  index: -1
+pinkbomb3
+  rotate: false
+  xy: 2827, 226
+  size: 212, 262
+  orig: 212, 262
+  offset: 0, 0
+  index: -1
